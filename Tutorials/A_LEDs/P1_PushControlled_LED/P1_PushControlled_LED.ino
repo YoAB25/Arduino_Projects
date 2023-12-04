@@ -1,5 +1,5 @@
-#define PIN_BUTT 3
-#define PIN_LED 11
+#define PIN_BUTT 2
+#define PIN_LED 5
 
 int buttonState = 0;
 
